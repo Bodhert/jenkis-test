@@ -125,7 +125,7 @@
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
-            <artifactId>ejb3-persistence</artifactId>
+            <artifactId>ejb3Testtt-persistence</artifactId>
             <version>1.0.1.GA</version>
         </dependency>
         <dependency>
